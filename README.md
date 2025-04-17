@@ -1,3 +1,3 @@
-# API de Triagem Funcional
+# API de Triagem Funcional - MVP
 
-Sistema básico FastAPI para triagem clínica funcional.
+API em FastAPI com endpoints para admissão, questionário, cálculo de score e geração de relatório.
